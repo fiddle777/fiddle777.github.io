@@ -33,5 +33,15 @@
       <description>&lt;p&gt;Pirmasis Hugo tinklalapio įrašas.&lt;/p&gt;
 &lt;p&gt;Tinklalapis sukurtas laboratoriniam darbui &amp;ldquo;DK_ND1&amp;rdquo;.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Apie</title>
+      <link>https://fiddle777.github.io/apie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fiddle777.github.io/apie/</guid>
+      <description>&lt;h1 id=&#34;apie-tinklalapį&#34;&gt;Apie tinklalapį&lt;/h1&gt;
+&lt;p&gt;Šis tinklalapis sukurtas naudojant Hugo ir PaperMod temą.&lt;/p&gt;
+&lt;p&gt;Projektas parengtas DK_ND1 laboratoriniam darbui.&lt;/p&gt;
+&lt;p&gt;Autorius: Deividas Narbutas, PRIF-23/4.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
